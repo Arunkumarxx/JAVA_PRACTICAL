@@ -20,7 +20,7 @@ public class LineRect extends Applet {
         g.fillOval(245, 25, 100, 100);
     }
 }
-// create separate index.html file for below code 
+/*create separate index.html file for below code */
 <!DOCTYPE html>
 <html>
 <head>
